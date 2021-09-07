@@ -4,3 +4,7 @@ def greeting(name)
 end
 
 puts greeting('John')  # 'John'を引数として渡す
+
+
+#まとめ
+#retuenをうまくつかうことで、無駄な処理を省略することができる
